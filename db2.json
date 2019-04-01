@@ -1,0 +1,19 @@
+{
+  "sources": [
+    {
+      "url": "https://www.google.com"
+    },
+   {
+      "url": "https://www.amazon.com"
+    },
+   {
+      "url": "https://www.google.co.nz"
+    },
+   {
+      "url": "https://www.example.com"
+    },
+   {
+      "url": "https://www.bbc.com"
+    }
+ ]
+}	
